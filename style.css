@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color:#E5E5E5;
+    margin: 70px;
+}
+.orange{
+    background-color:#EE4D38;
+    width: 276px;
+    height: 1009px;
+    border-radius:46px;
+    left: 79px;
+    top: 108px;
+    padding: 30px;
+    
+
+}
+.information{
+    
+    width: 260px;
+    height: 879px;
+    left: 0px;
+    top: 0px;
+    background: #F8F8FF;
+    border-top-left-radius: 46px;
+    border-bottom-left-radius: 46px;
+    padding-top: 3px;
+    
+    
+}
+
+.person{    
+    margin:58px 38px;
+    display: flex;
+    gap:10px;
+}
+.person-name {
+    margin-top:5px;
+}
+.types{
+    margin:30px;
+}
+.logout{
+    margin-top: 323px;
+}
+.list{
+    display: flex;
+    
+}
+.list li {
+    list-style-type: none;
+    margin-top:10px;
+    
+
+}
+.list ul:first-child{
+    margin-left:0px;
+   
+}
+.list ul{
+    margin-left: 130px;
+    
+}
+.list ul p{
+    margin-bottom: 20px;
+   
+}
+
+section{
+    display: flex;
+}
+.main{
+    margin: 100px;
+}
+.main-header h1{
+    margin-bottom:40px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 48px;
+}
+.History{
+    margin-bottom: 50px;
+}
+.link a{
+    color:#EE4D38;
+    text-decorations: none;
+    
+    
+}
+.payment-head{
+    margin-top: 50px;
+}
+.card img{
+    width: 67px;
+    height: 38px;
+}
+.card{
+    display: flex;
+    margin-top: 30px;
+}
+.card-name {
+    padding-top: 10px;
+    margin-right: 150px;
+    margin-left: 20px;
+    
+    font-weight:600;
+    font-size: 15px;
+    
+    
+}
+.card-button button{
+    margin: 5px; 
+    border-radius: 20px;
+    border: none;
+    padding: 10px;
+    font-weight: bold;
+
+}
+.plan-box{
+    width: 250px;
+    height: 200px;
+
+    border-radius:16px;
+    background: #EE4D38;
+    margin:215px 179px 664px 0 ;
+}
+.plan-texts{
+    padding: 32px;
+    gap: 16px;
+    color:#FFFFFF;
+}
+.plan-button button{
+    margin: 20px 10px; 
+    border-radius: 20px;
+    border: 2px solid white;
+    padding: 10px;
+    font-weight: bold;
+    background-color:  #EE4D38;;
+    color:  white;;
+   
+}
+
+
